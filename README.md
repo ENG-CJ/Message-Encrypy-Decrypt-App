@@ -10,5 +10,5 @@ If You Don't Have Last version Pip Upgrade First And Install<br>
 To Upgrade Pip Write This Command On The Command Prompt<br>
 > python -m pip install --upgrade pip
 
-## Thumbnail
-![](images/)
+## Encrpytion Mode
+![](images/th2.PNG)
