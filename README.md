@@ -11,4 +11,7 @@ To Upgrade Pip Write This Command On The Command Prompt<br>
 > python -m pip install --upgrade pip
 
 ## Encrpytion Mode
-![](images/th2.PNG)
+![](images/th2.jpg)
+
+## Decryption Mode
+![](images/th3.jpg)
